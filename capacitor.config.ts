@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.7b823fdb837145cb90fb9a2acc40d5c9',
+  appId: 'com.lovable.securenotesapp',
   appName: 'secure-note-sentinel',
   webDir: 'dist',
   server: {
